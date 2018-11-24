@@ -1,3 +1,5 @@
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
